@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 📫 How to reach me: write a Brain F_ck program generating the message string and send it to "surajthakur@live.in"...
 - ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 <!--
