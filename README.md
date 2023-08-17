@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20080&label=Profile%20views&color=0e75b6&style=flat" alt="20080" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=20080" alt="20080" /></a> </p>
-
 - 🔭 I’m currently working on **contibuting in big opensource projects**
 
 - 🌱 I’m currently learning **VueJs, React Native, Spring Batch and Apache Camel.**
