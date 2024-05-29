@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **contributing in big opensource projects**
 
-- 🌱 I’m currently learning **VueJs, React Native, Spring Batch and Apache Camel.**
+- 🌱 I’m currently learning **Spring Batch and Apache Camel.**
 
 - 🤝 I’m looking for help with [my NLP project for converting it to a service](https://github.com/20080/NLP_Summarization)
 
