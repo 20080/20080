@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
+<h1 align="center">Hi 👋, I'm Suraj Thakur</h1>
 <h3 align="center">An Engineer with keen Interest in Computers Sciences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20080&label=Profile%20views&color=0e75b6&style=flat" alt="20080" /> </p>
