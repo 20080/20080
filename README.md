@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **surajthakur@live.in**
 
-- 📄 Know about my experiences(welcome to add comments) [https://docs.google.com/document/d/16JvXjD549pD46Doj05cAfUdeYmZ5v-L2uxjGmnay0yM/edit?usp=sharing](https://docs.google.com/document/d/16JvXjD549pD46Doj05cAfUdeYmZ5v-L2uxjGmnay0yM/edit?usp=sharing)
-
 - ⚡ Fun fact **Mediocre enjoyer of monotonicity**
 
 <h3 align="left">Connect with me:</h3>
